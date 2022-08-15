@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vjardimb
+- 👋 Hi, I’m Vitor
 - 👀 I’m interested in python, artificial intelligence and robotics
 - 🌱 I’m currently learning Deep Learning and Computer Vision
 - 💞️ I’m looking to collaborate on projects that allow me to put into practice what I've been learning
