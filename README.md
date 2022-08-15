@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vjardimb
-- 👀 I’m interested in python, artificial intelligence and web programing
+- 👀 I’m interested in python, artificial intelligence and robotics
 - 🌱 I’m currently learning Deep Learning and Computer Vision
 - 💞️ I’m looking to collaborate on projects that allow me to put into practice what I've been learning
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/vitor-jardim-bueno/ or by email: vitorjardimbueno@hotmail.com
